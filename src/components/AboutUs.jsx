@@ -14,7 +14,7 @@ export default function AboutUs() {
             Why Choose Agri India Foods?
           </h3>
           <p className="text-gray-700 text-lg lg:text max-w-4xl mx-auto leading-relaxed">
-            With over 20 years of expertise in rice cultivation and export, Agri India Foods has earned a reputation as a reliable partner for buyers around the globe. We specialize in delivering premium-quality Indian rice that meets the highest international standards.
+            With over 25+ years of expertise in rice cultivation and export, Agri India Foods has earned a reputation as a reliable partner for buyers around the globe. We specialize in delivering premium-quality Indian rice that meets the highest international standards.
 
           </p>
         </div>
